@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PS4 Jailbreak FIFA 22</string>
+    <string name="community_name">COMMUNITY PS4 JAILBREAK ONLINE</string>
+    <string name="community_subtitle">بطولة FIFA 22 الرسمية لمجتمع Discord</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_players">المشاركون</string>
+    <string name="nav_groups">المجموعات</string>
+    <string name="nav_bracket">الإقصائيات</string>
+    <string name="nav_admin">الإدارة</string>
+    <string name="action_register_player">تسجيل في البطولة</string>
+    <string name="action_admin_login">دخول المشرفين</string>
+    <string name="action_logout">تسجيل الخروج</string>
+    <string name="cd_community_logo">شعار مجتمع COMMUNITY PS4 JAILBREAK ONLINE</string>
+    <string name="cd_tournament_banner">صورة غلاف البطولة</string>
+    <string name="cd_player_avatar">صورة اللاعب</string>
+    <string name="cd_champion_trophy">كأس بطل البطولة</string>
+    <string name="cd_back">رجوع</string>
+</resources>

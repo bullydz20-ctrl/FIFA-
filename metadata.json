@@ -1,0 +1,6 @@
+{
+  "name": "PS4 Jailbreak FIFA 22",
+  "description": "منصة إدارة وتنظيم بطولات FIFA 22 لمجتمع COMMUNITY PS4 JAILBREAK ONLINE باللغة العربية مع القرعة التلقائية والمجموعات والمخطط الإقصائي التفاعلي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
